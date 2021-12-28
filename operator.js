@@ -1,0 +1,25 @@
+
+let add=4+5;
+// console.log(add);
+let minus=5-4;
+// console.log(minus);
+let x=3*5;
+// console.log(x);
+let d= 10/2;
+// console.log(d);
+let m= 15%3;
+// console.log(m);
+let num=10;
+num++;
+// console.log(num);
+let num2=20;
+num2--;
+// console.log(num2);
+let a=10;
+a+=2;
+// console.log(a);
+let b=10;
+b-=2;
+// console.log(b);
+let m1=15/4;
+// console.log(m1);

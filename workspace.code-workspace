@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\PerfLogs"
+		},
+		{
+			"path": "..\\Program Files"
+		},
+		{
+			"path": "..\\Program Files (x86)"
+		},
+		{
+			"path": "..\\source"
+		},
+		{
+			"path": "..\\SWSetup"
+		},
+		{
+			"path": "..\\Users"
+		},
+		{
+			"path": "..\\Windows"
+		}
+	]
+}
